@@ -1,0 +1,33 @@
+                       Diagnosis   Predictor    Coefficent    StdError zStatistic       pValue
+1          Iron deficiency anemia (Intercept) 103.905601213 0.792859681 131.051690 0.000000e+00
+2          Iron deficiency anemia         HGB  13.369182972 3.782463139   3.534518 4.085201e-04
+3          Iron deficiency anemia         MCV   9.350988519 0.224270211  41.695188 0.000000e+00
+4          Iron deficiency anemia         RBC  21.051219614 2.247518331   9.366428 0.000000e+00
+5                        Leukemia (Intercept)  29.320810938 2.179646221  13.452096 0.000000e+00
+6                        Leukemia         HGB  29.507932266 2.125902504  13.880191 0.000000e+00
+7                        Leukemia         MCV  95.535291035 0.890716025 107.256733 0.000000e+00
+8                        Leukemia         RBC  -2.460551833 0.978536125  -2.514523 1.191934e-02
+9  Leukemia with thrombocytopenia (Intercept)  -1.787161204 0.180150685  -9.920369 0.000000e+00
+10 Leukemia with thrombocytopenia         HGB   0.630423069 0.162228828   3.886011 1.019047e-04
+11 Leukemia with thrombocytopenia         MCV   0.615810003 0.286989840   2.145755 3.189250e-02
+12 Leukemia with thrombocytopenia         RBC  -0.318633878 0.255407150  -1.247553 2.121949e-01
+13              Macrocytic anemia (Intercept)  -2.008224387 0.173925865 -11.546439 0.000000e+00
+14              Macrocytic anemia         HGB  -0.383398692 0.148113666  -2.588544 9.638273e-03
+15              Macrocytic anemia         MCV  -0.438810590 0.178595125  -2.457013 1.400975e-02
+16              Macrocytic anemia         RBC   0.844221234 0.133087614   6.343349 2.248228e-10
+17  Normocytic hypochromic anemia (Intercept)  -1.061202597 0.013798113 -76.909255 0.000000e+00
+18  Normocytic hypochromic anemia         HGB  -0.161299553 0.038647319  -4.173629 2.997864e-05
+19  Normocytic hypochromic anemia         MCV  -0.136293559 0.011594463 -11.755056 0.000000e+00
+20  Normocytic hypochromic anemia         RBC   0.005518714 0.004328926   1.274846 2.023637e-01
+21 Normocytic normochromic anemia (Intercept)  -0.089123225 0.024826288  -3.589873 3.308389e-04
+22 Normocytic normochromic anemia         HGB  -0.132002061 0.022662763  -5.824624 5.724149e-09
+23 Normocytic normochromic anemia         MCV  -1.071357507 0.013695224 -78.228548 0.000000e+00
+24 Normocytic normochromic anemia         RBC   0.002957964 0.002745033   1.077570 2.812259e-01
+25        Other microcytic anemia (Intercept)   0.805554077 0.348793664   2.309543 2.091345e-02
+26        Other microcytic anemia         HGB  -1.929669297 0.441617089  -4.369553 1.245011e-05
+27        Other microcytic anemia         MCV  -1.814437213 0.816771893  -2.221474 2.631890e-02
+28        Other microcytic anemia         RBC  -4.878303968 0.717632458  -6.797775 1.062461e-11
+29               Thrombocytopenia (Intercept)   0.782293737 0.348110320   2.247258 2.462354e-02
+30               Thrombocytopenia         HGB  -2.794509172 0.331712880  -8.424482 0.000000e+00
+31               Thrombocytopenia         MCV  -0.643773092 0.380143132  -1.693502 9.035999e-02
+32               Thrombocytopenia         RBC  -2.208097379 0.334638417  -6.598458 4.154566e-11
